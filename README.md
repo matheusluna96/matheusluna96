@@ -3,13 +3,9 @@ I'm Matheus Moreira Luna, a passionate software developer and tech enthusiast. I
 With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
-Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 5 years dedicated to honing my skills in front-end technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance.
-
-In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
+Passionate about crafting interactive and intuitive user experiences, I specialize in Full-stack development, combining modern frameworks with best practice design patterns. With almost 5 years dedicated to honing my skills in Full-stack technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance.
 
 In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor.
-
-Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.
 
 # 💻 Tech Stack
 ## Front-end
