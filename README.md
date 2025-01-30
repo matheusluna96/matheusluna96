@@ -1,5 +1,5 @@
 # 👋 Hi there
-I'm Matheus Moreira Luna, a passionate software developer and tech enthusiast. I currently work as a Software Engineer at Minsait.
+I'm Matheus Moreira Luna, a passionate software developer and tech enthusiast. I currently work as a Frontend Developer at Zup.
 With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
